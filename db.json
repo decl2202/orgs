@@ -1,0 +1,32 @@
+{	"orgs":
+	{
+		"resultData": [{
+			"sourceId": "544",
+			"orgName": "Granada Hills (CA)",
+			"matches": [{
+				"orgId": 544,
+				"externalSisId": null,
+				"orgName": "Granada Hills (CA)",
+				"ncesId": null,
+				"matchingScore": 100.0
+			},
+			{
+				"orgId": 716,
+				"externalSisId": null,
+				"orgName": "Granada Hills Charter High School (CA)",
+				"ncesId": null,
+				"matchingScore": 84.0
+			}],
+			"success": true
+		},
+		{
+			"sourceId": "544614",
+			"orgName": "SpotlightonMusic4_Sec5_Sem1_15-16",
+			"matches": [],
+			"success": true
+		}],
+		"success": true,
+		"resultMessage": "Merge and Match process has been success."
+	}
+	
+}
