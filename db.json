@@ -8,14 +8,17 @@
 				"externalSisId": null,
 				"orgName": "Granada Hills (CA)",
 				"ncesId": null,
-				"matchingScore": 100.0
+				"matchingScore": 100.0,
+				"matches":false
 			},
 			{
 				"orgId": 716,
 				"externalSisId": null,
 				"orgName": "Granada Hills Charter High School (CA)",
 				"ncesId": null,
-				"matchingScore": 84.0
+				"matchingScore": 84.0,
+				"matches":false
+				
 			}],
 			"success": true
 		},
